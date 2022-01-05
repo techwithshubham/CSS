@@ -1,0 +1,223 @@
+*{margin: 0; box-sizing: border-box;}
+.fl{float: left;}
+.fr{float: right;}
+.new{ float: left; margin-left: 1%;}
+.wrapper{
+    margin: 25px auto;
+    height: 90vh;
+    width: 50%;
+    border: 2px solid black;
+}
+.col-1{
+    margin: .7vh 1% 0 1%;
+    height: 88vh;
+    width: 31.3%;
+    border: 2px solid black; 
+}
+.box-1{
+    margin: .7vh 1% 0 1%;
+    height: 42.65vh;
+    border: 2px solid black;
+}
+.box-2{
+    margin: .7vh 1% 0 1%;
+    height: 20.95vh;
+    border: 2px solid black;
+    
+}
+.box-3{
+    margin: .7vh 1% 0 1%;
+    height: 28.16vh;
+    border: 2px solid black;
+}
+.box-3a{
+    margin: .7vh 1% 0 1%;
+    height: 26.16vh;
+    width: 48%;
+    border: 2px solid black;
+    
+}
+.box-4{
+    margin: .7vh 1% 0 1%;
+    height: 57vh;
+    border: 2px solid black;
+}
+.box-4a{
+    margin: .7vh 1% 0 1%;
+    height: 27.1vh;
+    width: 98%;
+    border: 2px solid black;
+}
+.subbox-1{
+    height: 42vh;
+    width: 50%;
+}
+.subbox-2{
+    height: 20.2vh;
+    width: 24.2%;
+}
+.subbox-3{
+    height: 20.2vh;
+    width: 32.75%;
+}
+.subbox-4{
+    height: 6vh;
+    width: 100%;
+}
+.subbox-5{
+    height: 25.5vh;
+    width: 50%;
+}
+.subbox-6{
+    padding: .9vh .9vh .9vh .9vh;
+    height: 27.1vh;
+    width: 33.33%;
+}
+.subbox-7{
+    height: 27.1vh;
+    width: 100%;
+}
+.subbox-8{
+    padding: .9vh .9vh .9vh .9vh;
+    height: 6vh;
+    width: 100%;
+}
+.subbox-8a{
+    height: 5.5vh;
+    width: 50%;
+}
+.layout-1{
+    margin: .9vh 5% 0 5%;
+    height: 19.7vh;
+    width: 90%;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-2{
+    margin: .9vh 5% 0 5%;
+    height: 8vh;
+    width: 90%;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-2a{
+    margin: -2% 5% 0 5%;
+    height: 8vh;
+    width: 90%;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-3{
+    margin: .9vh 5% 0 5%;
+    height: 10vh;
+    width: 90%;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-4{
+    margin: .9vh 5% 0 5%;
+    height: 18.7vh;
+    width: 90%;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-5{
+    margin: .9vh 5% 0 5%;
+    height: 5.68vh;
+    width: 90%;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-6{
+    margin: .9vh 5% 0 5%;
+    height: 8.90vh;
+    width: 90%;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-7{
+    margin: .9vh 5% 0 5%;
+    height: 3.97vh;
+    width: 90%;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-8{
+    margin: .9vh 5% 0 5%;
+    height: 6.48vh;
+    width: 90%;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-9{
+    margin: .9vh 5% 0 5%;
+    height: 5.68vh;
+    width: 23.3%;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-10{
+    margin: .9vh 5% 0 5%;
+    height: 5.98vh;
+    width: 90%;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-11{
+    margin: .9vh 5% 0 5%;
+    height: 5.23vh;
+    width: 90%;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-12{
+    margin: -4% 5% 0 5%;
+    height: 7vh;
+    width: 90%;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-13{
+    margin: .9vh 5% 0 5%;
+    height: 17vh;
+    width: 90%;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-14{
+    margin-top: -4%;
+    height: 6.60vh;
+    width: 58px;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-14a{
+    margin-top: -4%;
+    margin-left: -8%;
+    height: 6.60vh;
+    width: 58px;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-14b{
+    margin-top: -4%;
+    margin-left: -16%;
+    height: 6.60vh;
+    width: 58px;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-15{
+    margin-left: 2%;
+    height: 5vh;
+    width: 85px;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
+.layout-15a{
+    margin-left: 0;
+    height: 5vh;
+    width: 85px;
+    border: 2px solid black;
+    background-color: rgb(102, 255, 153);
+}
